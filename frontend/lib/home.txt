@@ -1,0 +1,4 @@
+DroneHomeWidget
+RoleHomeWidget
+FlightPlanHomeWidget
+AccessRightHomeWidget

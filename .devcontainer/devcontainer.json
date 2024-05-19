@@ -1,0 +1,15 @@
+{
+	"name": "Ubuntu & Flutter & Mongo DB & Python",
+	"dockerComposeFile": ["docker-compose.yml"],
+	"service": "laia",
+	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"mongodb.mongodb-vscode",
+                "dart-code.flutter",
+				"laia.laiaextension"
+			]
+		}
+	}
+}

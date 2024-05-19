@@ -1,0 +1,39 @@
+dependencies:
+  collection: ^1.18.0
+  copy_with_extension: ^4.0.0
+  cupertino_icons: ^1.0.8
+  dart_amqp: ^0.2.5
+  dio: ^5.4.0
+  flutter:
+    sdk: flutter
+  flutter_map: ^6.1.0
+  flutter_map_arcgis: ^2.0.6
+  flutter_riverpod: ^2.4.6
+  flutter_typeahead: ^5.0.0
+  http: ^1.1.0
+  json_annotation: ^4.8.1
+  json_serializable: ^6.7.1
+  laia_annotations: ^0.0.7
+  latlong2: ^0.9.0
+  shared_preferences: ^2.2.2
+  tuple: ^2.0.2
+description: A new Flutter project.
+dev_dependencies:
+  build_runner: ^2.4.6
+  copy_with_extension_gen: ^4.0.4
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+  laia_riverpod_custom_generator: ^0.0.11
+  laia_widget_generator: ^0.0.18
+  riverpod_lint: ^2.0.1
+environment:
+  sdk: '>=3.5.0-146.0.dev <4.0.0'
+flutter:
+  assets:
+  - assets/
+  - assets/
+  uses-material-design: true
+name: frontend
+publish_to: none
+version: 1.0.0+1

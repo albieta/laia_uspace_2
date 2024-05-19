@@ -1,0 +1,4 @@
+requests
+uvicorn
+laia-gen-lib
+shapely
